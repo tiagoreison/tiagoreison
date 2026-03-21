@@ -34,9 +34,7 @@ Atualmente iniciando minha carreira como desenvolvedor web, meu principal objeti
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoreison&layout=compact&theme=radical)
 
-## 🟩 Contribuições (estilo gráfico GitHub)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagoreison&theme=react-dark)
 
 ---
 
