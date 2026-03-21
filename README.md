@@ -22,7 +22,21 @@ Atualmente iniciando minha carreira como desenvolvedor web, meu principal objeti
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tiagoreisdesouza&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true)
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoreison&show_icons=true&theme=radical)
+
+## 🔥 Streak (Sequência de commits)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=tiagoreison&theme=radical)
+
+## 📈 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoreison&layout=compact&theme=radical)
+
+## 🟩 Contribuições (estilo gráfico GitHub)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tiagoreison&theme=react-dark)
 
 ---
 
