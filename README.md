@@ -1,47 +1,68 @@
-# 👨‍💻 Tiago Reis de Souza
+<div align="center">
+  <img src="dev_pixel_art.gif" alt="Dev Pixel Art" width="200"/>
+</div>
 
-Olá! Sou **Tiago Reis de Souza**, um entusiasta da tecnologia com foco em desenvolvimento web. Atualmente, estou me aprofundando em **HTML**, **CSS** e **JavaScript**, dando meus primeiros passos nesse universo empolgante da programação.
+<br/>
 
-Sou apaixonado por aprender, resolver problemas e transformar ideias em soluções criativas. Tenho experiência com a criação de **layouts simples e funcionais**, e estou em constante evolução, sempre buscando novos desafios e oportunidades para crescer na área de **tecnologia**.
-
----
-
-## 🚀 Objetivo Profissional
-
-Atualmente iniciando minha carreira como desenvolvedor web, meu principal objetivo é **desenvolver habilidades sólidas**, contribuir com projetos significativos e me tornar um profissional de destaque na área de **tecnologia e inovação**.
-
----
-
-## 🛠️ Habilidades
-
-![HTML5](https://img.shields.io/badge/html-%233c3c6c?style=for-the-badge&logo=HTML5&logoColor=%23ffcc00)
-![CSS3](https://img.shields.io/badge/css-%233c3c6c?style=for-the-badge&logo=CSS3&logoColor=%23ffcc00)
-![JavaScript](https://img.shields.io/badge/javascript-%233c3c6c?style=for-the-badge&logo=javascript&logoColor=%23ffcc00)
+<div align="center">
+  <h1>hey, i'm tiagoreison 👋</h1>
+  <p>Frontend Developer · Transformando interfaces em experiências</p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 🧑‍💻 Sobre mim
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tiagoreison&show_icons=true&theme=radical)
-
-## 🔥 Streak (Sequência de commits)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=tiagoreison&theme=radical)
-
-## 📈 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoreison&layout=compact&theme=radical)
-
-
+```javascript
+const tiagoreison = {
+  focus:     "Frontend Development",
+  stack:     ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+  fun_fact:  "Meu código funciona na primeira tentativa... às vezes 🤞"
+};
+```
 
 ---
 
-## 📬 Contato
+### 🛠️ Tecnologias & Ferramentas
 
-Entre em contato ou acompanhe meu trabalho:
+<div align="center">
 
-[![Gmail](https://img.shields.io/badge/gmail-%233c3c6c?style=for-the-badge&logo=Gmail&logoColor=%23ffcc00)](mailto:tiagoreis.hd@example.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%233c3c6c?style=for-the-badge&logo=Linkedin&logoColor=%23ffcc00)](https://www.linkedin.com/in/tiagoreison)
-[![GitHub](https://img.shields.io/badge/github-%233c3c6c?style=for-the-badge&logo=Github&logoColor=%23ffcc00)](https://github.com/tiagoreison)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tiagoreison&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagoreison&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tiagoreison&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### 📬 Onde me encontrar
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/tiagoreison)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tiagoreison)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=tiagoreison&color=blueviolet&style=flat-square&label=visitors" />
+</div>
